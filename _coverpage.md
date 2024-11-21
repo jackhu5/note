@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/cover.jpg)
 
 # 学无止境 <small></small>
 
