@@ -1,6 +1,6 @@
 /* 修改封面背景 */
 .cover {
-    background-image: url('你的背景图像路径');
+    background-image: url('media/cover.jpg');
     background-size: cover; /* 让背景图像覆盖整个区域 */
     background-position: center; /* 背景图像居中 */
     height: 100vh; /* 设置高度为视口高度 */
