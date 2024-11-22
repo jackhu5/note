@@ -1,8 +1,8 @@
 /* 修改封面背景 */
 .cover {
-    background-image: url('media/cover.jpg');
-    background-size: cover; /* 让背景图像覆盖整个区域 */
-    background-position: center; /* 背景图像居中 */
-    height: 100vh; /* 设置高度为视口高度 */
-    color: white; /* 修改文本颜色（可选） */
+    background-image: url('media/cover.jpg')!important;
+    background-size: cover!important; /* 让背景图像覆盖整个区域 */
+    background-position: center!important; /* 背景图像居中 */
+    height: 100vh !important; /* 设置高度为视口高度 */
+    color: white !important; /* 修改文本颜色（可选） */
 }
