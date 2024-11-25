@@ -7,7 +7,7 @@
     <summary>python_in_deep_learning</summary>
     
     * [chapter_1](python_in_deep_learning/chapter_1/note.md)
-
+    * [chapter_2](#)
     </details>
     
   </details>
