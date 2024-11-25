@@ -6,7 +6,7 @@
   * <details>
     <summary>python_in_deep_learning</summary>
     
-    * [chapter_1](python_in_deep_learning/chapter_1/1.1.md)
+    * [chapter_1](python_in_deep_learning/chapter_1/1_1.md)
     * [chapter_2](#)
     </details>
     
